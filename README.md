@@ -53,7 +53,7 @@ O caminho dessa pasta seria da seguinte maneira `C:\Users\seu_usuario\pasta_test
 
 
 
-## Funcionamento
+## :wrench: Execução
 
 1. O script define o caminho para a pasta de Downloads do usuário.
 2. Em seguida, percorre todos os arquivos dentro dessa pasta.
