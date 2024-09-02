@@ -1,10 +1,10 @@
-# Organizador de Arquivos
+# :snake: Organizador de Arquivos
 
 ![Files Image](10838253_4560004.jpg "File Organize")
 
 O objetivo deste script é atuar como um organizador de arquivos para as principais pastas do Windows. Ele automatiza o processo de separar e organizar os arquivos, criando subpastas para tornar tudo mais organizado. 
 
-## Funcionalidades
+## :open_file_folder: Funcionalidades
 
 - **Organização Automática**: O script verifica a pasta que o usuario passa como argumento durante a execução do script, movendo os arquivos para subpastas correspondentes com base em suas extensões. Para sua execução é necessário ter o `python` instalado. 
 
@@ -15,7 +15,7 @@ O objetivo deste script é atuar como um organizador de arquivos para as princip
   - Arquivos compactados: `.zip`
 - **Criação de Pastas**: Caso uma subpasta para uma determinada extensão não exista, o script cria essa pasta automaticamente.
 
-## Como Usar
+## :heavy_exclamation_mark: Como Usar
 
 1. **Clonar o repositório**:
    ```
