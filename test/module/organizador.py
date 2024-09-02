@@ -36,5 +36,6 @@ class Organize:
                     print(Fore.GREEN, f'Arquivos movidos com sucesso! {arquivos}', Fore.RESET)
                 else:
                     # Cria pasta não existente
-                    os.makedir(os.path.join(self.__diretorio, self.__extensoes[extensao]))
+                    print(self.__extensoes[extensao])
+                    os.mkdir(os.path.join(self.__diretorio, self.__extensoes[extensao]))
                     print(Fore.BLUE, f'Pasta criada com sucesso! {self.__extensoes[extensao]}', Fore.RESET)
